@@ -102,16 +102,15 @@ If you find my work useful:
 
 # 📫 Contact
 
-GitHub  
-https://github.com/TomBadash
-
+Linkedin  
+www.linkedin.com/in/tom-badash
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=30&center=true&vCenter=true&width=800&lines=Cyber+AI+Researcher;Offensive+AI+Lab;Open+Source+Developer;Building+AI+Security+Tools)](https://git.io/typing-svg)
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=TomBadash&color=blue)
 
-![snake gif](https://github.com/YOUR_USERNAME/TomBadash/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TomBadash/TomBadash/blob/output/github-contribution-grid-snake.svg)
 
 ## Star History
 
