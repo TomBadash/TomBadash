@@ -110,7 +110,6 @@ www.linkedin.com/in/tom-badash
 
 ![Visitors](https://komarev.com/ghpvc/?username=TomBadash&color=blue)
 
-![snake gif](https://github.com/TomBadash/TomBadash/blob/output/github-contribution-grid-snake.svg)
 
 ## Star History
 
