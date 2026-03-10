@@ -37,7 +37,7 @@ for remapping buttons on Logitech MX Master devices.
 
 ⭐ Help grow the project by starring or contributing!
 
-https://github.com/YOUR_USERNAME/MouseControl
+https://github.com/TomBadash/MouseControl
 
 ---
 
