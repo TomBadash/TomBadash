@@ -113,4 +113,6 @@ https://github.com/TomBadash
 
 ![snake gif](https://github.com/YOUR_USERNAME/TomBadash/blob/output/github-contribution-grid-snake.svg)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/MouseControl&type=Date)](https://star-history.com/#TomBadash/MouseControl&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/image?repos=TomBadash/MouseControl&type=date&legend=top-left)](https://www.star-history.com/?repos=TomBadash%2FMouseControl&type=date&legend=top-left)
